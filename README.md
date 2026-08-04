@@ -7,7 +7,7 @@ A Análise de Dados não depende apenas do domínio de ferramentas como Excel, S
 Este projeto tem como objetivo demonstrar como o NotebookLM pode ser utilizado como uma ferramenta de aprendizagem ativa, auxiliando estudantes e iniciantes a desenvolverem a habilidade de criar perguntas estratégicas para projetos de Análise de Dados.
 
 #Objectivos#
-  -Explicar por que fazer as perguntas certas é importante na análise de dados.
+  	-Explicar por que fazer as perguntas certas é importante na análise de dados.
 	-Apresentar diferentes tipos de perguntas utilizadas em projetos de análise de dados.
 	-Demonstrar como melhorar prompts para obter respostas mais úteis da IA.
 	-Criar um conjunto de perguntas reutilizáveis para diferentes cenários de análise.
