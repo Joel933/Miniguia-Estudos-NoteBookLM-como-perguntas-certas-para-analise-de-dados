@@ -1,7 +1,11 @@
 # Miniguia-Estudos-NoteBookLM-como-perguntas-certas-para-analise-de-dados
 ##Contexto e Objectivos
+
 #Contexto##
-Ensinar iniciantes em Análise de Dados a formular perguntas estratégicas que ajudem a explorar dados, 	identificar padrões e gerar         insights relevantes utilizando o NotebookLM como ferramenta de apoio aos estudos.
+A Análise de Dados não depende apenas do domínio de ferramentas como Excel, SQL, Power BI ou Python. Um dos fatores mais importantes para obter bons resultados é saber formular as perguntas certas. Perguntas bem elaboradas orientam a exploração dos dados, facilitam a identificação de padrões e ajudam a gerar insights que apoiam a tomada de decisões.
+
+Este projeto tem como objetivo demonstrar como o NotebookLM pode ser utilizado como uma ferramenta de aprendizagem ativa, auxiliando estudantes e iniciantes a desenvolverem a habilidade de criar perguntas estratégicas para projetos de Análise de Dados.
+
 #Objectivos#
   -Explicar por que fazer as perguntas certas é importante na análise de dados.
 	-Apresentar diferentes tipos de perguntas utilizadas em projetos de análise de dados.
