@@ -1,0 +1,1 @@
+# Miniguia-Estudos-NoteBookLM-como-perguntas-certas-para-analise-de-dados
